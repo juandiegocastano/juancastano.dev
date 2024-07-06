@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Juan D. Castaño
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Juan Diego
+last_name: Castaño
 
 # Status emoji
 status:
@@ -20,92 +20,92 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Machine Learning Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: marvik.ai
+    url: https://www.marvik.ai/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:castanogomezjuandiego@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/juandiegocastano/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/juan-castano-gomez
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cloud Architecture
+  - MLops
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MsC. Computer Science (specialization in Machine Learning)
+    institution: Georgia Institute of Technology
+    date_start: 2024-08-15
+    date_end: 2026-12-31
     summary: |
       GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Big Data for Healthcare Informatics
+      - Machine Learning
+      - Deep Learning
+      - Reinforcement Learning and Decision Making
+  - area: BSc Computer Science
+    institution: Technological University of Pereira
+    date_start: 2017-05-01
+    date_end: 2021-12-17
     summary: |
-      GPA: 3.4/4.0
+      GPA: 4.2/5.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Machine Learning Engineer
+    company_name: Marvik.ai
+    company_url: 'https://www.marvik.ai/'
+    company_logo: 'marvik-logo.png'
+    date_start: 2024-08-15
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Taking state of the art DL research papers and developing AI models with high accuracy and production level code.
+      - Deploying the model for production use: constructing API's, necessary pipeline architectures and other integrations for the constructed AI to be part of a bigger system.
+  - position: Machine Learning Engineer
+    company_name: Expert Intelligence
+    company_url: 'https://www.expertintelligence.ai/'
+    company_logo: 'EI.png'
+    date_start: 2023-08-15
+    date_end: 2022-06-15
+    summary: |
+      Working as a Machine Learning engineer applying state of the art deep learning models and research for developing commercial AI applications in fields such as computer vision.
+      Responsibilities include:
+      - Taking state of the art DL research papers and developing AI models with high accuracy and production level code.
+      - Deploying the model for production use: constructing API's, necessary pipeline architectures and other integrations for the constructed AI to be part of a bigger system.
+      - Integrating the knowledge acquired in each client's individual project into developing the company's base product with one goal: making AI easy and usable both for experts and common users.
+  - position: Software Engineer
+    company_name: Rural Development Agency of Colombia
+    company_url: 'https://www.adr.gov.co/'
+    company_logo: 'ADR.jpg'
+    date_start: 2022-01-15
+    date_end: 2022-06-15
+    summary: |
+      Implemented a Whatsapp Chatbot system for 150.000 Colombian farmers (traffic with more than 1 million messages weekly) with complex conversational flows represented in DAGs.
+      Responsibilities include:
+      - Responsible for making the WhatsApp bot's conversational flows
+      - Integrating the provider's platform with the project's database through APIS, using Javascript ES06, and HTTP request's load stress balancing.
+  - position: Software Engineer
+    company_name: DataiFX
+    company_url: 'https://www.dataifx.com/'
+    company_logo: 'dataifx.jpg'
+    date_start: 2021-01-15
+    date_end: 2021-09-15
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Working as a Software Engineer in web projects for high positioned financial companies (such as Banks) in the country in .NET technologies, such as C#, and Angular. Knowledge in Javascript, CSS and HTML working under SCRUM work methodologies.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -142,11 +142,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Spanish
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: English
+    percent: 90
+  - name: French
     percent: 25
 
 # Awards.
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a Computer Science Engineer currently working as a Machine Learning Engineer, where I am responsible for transforming research papers into AI-oriented applications, currently heavily focused in Generative AI using Stable Diffusion (LoRas, Controlnets, ip-adapters, etc). My work involves delivering high-quality, tested code in Python, which is exposed through REST APIs using frameworks such as FastAPI. Additionally, I arrange these processes in pipelines using frameworks such as Airflow and deploy them on cloud services such as AWS and Docker. I've got 5+ years experience as an AI/ML developer creating projects such as Virtual Clothes TryOn,student desertion dashboard, WhatsApp Chatbots (currently serving 150.000+ users), and software for Financial Companies.
